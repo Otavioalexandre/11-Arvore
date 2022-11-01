@@ -1,4 +1,8 @@
 # Arvores (continuação)
+
+* NOME: OTAVIO ALEXANDRE
+* EMAIL: otavio.ferreira01@fatec.sp.gov.br
+
 ---
 
 ## Objetivos
