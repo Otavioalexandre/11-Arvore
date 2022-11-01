@@ -177,7 +177,7 @@ void exibirElementosArvore(NO* no)
 
 void buscarElementoArvore(NO* no, int valor){
 
-    if (no->valor == NULL){
+    if (no == NULL){
 
         cout << "Nao encontrei" << endl;
         return;
